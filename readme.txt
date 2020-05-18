@@ -7,10 +7,10 @@ Tools used here includes: Python, Node.js, Swift, Google Colaboratory, Azure vir
 --------------Folder: dataset----------------------------------------------------
 Chinese landmark & attraction dataset
 1. The image dataset (10.3G) is shared via one drive from this link
-https://1drv.ms/f/s!AmBHBOsyDMiaofUKRWvysLrL5kGClA password:landmark
+New link: https://1drv.ms/u/s!AmBHBOsyDMiapP4qTckvjRFuRXyNFA?e=inTXN1
 
 2. The raw image landmark dataset (89.2G) is shared via one drive from this link
-https://1drv.ms/f/s!AmBHBOsyDMiapP4tcrsqldy8a-1rPA password:landmark
+https://1drv.ms/f/s!AmBHBOsyDMiapP4tcrsqldy8a-1rPA password:landmark  not there anymore
 
 3. landmark.csv
 landmark_id, number of images for each landmark.
